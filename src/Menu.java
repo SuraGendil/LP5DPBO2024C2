@@ -212,7 +212,7 @@ public class Menu extends JFrame{
 
         // feedback
         System.out.println("Insert Berhasil!");
-        JOptionPane.showMessageDialog(null, "Data Berhasil Ditambahkan");
+        JOptionPane.showMessageDialog(null, "Data Berhasil DiUpdate");
     }
 
     public void deleteData() {
@@ -227,7 +227,7 @@ public class Menu extends JFrame{
 
         // feedback
         System.out.println("Insert Berhasil!");
-        JOptionPane.showMessageDialog(null, "Data Berhasil Ditambahkan");
+        JOptionPane.showMessageDialog(null, "Data Berhasil Dihapus");
     }
 
     public void clearForm() {
